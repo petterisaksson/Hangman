@@ -1,0 +1,4 @@
+hund
+katt
+zebra
+orm
